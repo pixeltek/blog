@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.56880a97.css",
   "main.css.map": "static/css/main.56880a97.css.map",
-  "main.js": "static/js/main.2ba69693.js",
-  "main.js.map": "static/js/main.2ba69693.js.map",
+  "main.js": "static/js/main.0007aa73.js",
+  "main.js.map": "static/js/main.0007aa73.js.map",
   "static/media/Aloisen New.woff": "static/media/Aloisen New.5fdeefc9.woff",
   "static/media/iconfont.woff": "static/media/iconfont.e56b86c7.woff",
   "static/media/icons@2x.png": "static/media/icons@2x.cd355b2a.png",
@@ -29,5 +29,17 @@
   "static/media/note68-G.mp3": "static/media/note68-G.3f6ac4ff.mp3",
   "static/media/note69-A.mp3": "static/media/note69-A.291d9368.mp3",
   "static/media/note70-A.mp3": "static/media/note70-A.4da30118.mp3",
-  "static/media/note71-B.mp3": "static/media/note71-B.da56f800.mp3"
+  "static/media/note71-B.mp3": "static/media/note71-B.da56f800.mp3",
+  "static/media/note72-C.mp3": "static/media/note72-C.ba4035fe.mp3",
+  "static/media/note73-C.mp3": "static/media/note73-C.3618c3ba.mp3",
+  "static/media/note74-D.mp3": "static/media/note74-D.12f518c9.mp3",
+  "static/media/note75-D.mp3": "static/media/note75-D.2a7d3b22.mp3",
+  "static/media/note76-E.mp3": "static/media/note76-E.c4a75ce9.mp3",
+  "static/media/note77-F.mp3": "static/media/note77-F.a15b6f53.mp3",
+  "static/media/note78-F.mp3": "static/media/note78-F.a75b8840.mp3",
+  "static/media/note79-G.mp3": "static/media/note79-G.3a964695.mp3",
+  "static/media/note80-G.mp3": "static/media/note80-G.7e9c425a.mp3",
+  "static/media/note81-A.mp3": "static/media/note81-A.7c9abf2a.mp3",
+  "static/media/note82-A.mp3": "static/media/note82-A.a064668a.mp3",
+  "static/media/note83-B.mp3": "static/media/note83-B.5b4edce5.mp3"
 }
